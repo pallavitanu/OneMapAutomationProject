@@ -45,12 +45,12 @@ TestNg
 
 
 **Steps to run at your system:**
-1.Clone the repository using "git clone "
-2.Open command prompt and Go to your project directory 
-3.To run test in Chrome Browser: Run mvn test -DbrowserName="chrome"
-4.To run test in Firefox Browser: Run mvn test -DbrowserName="firefox"
+1.	Clone the repository using "git clone "
+2.	Open command prompt and Go to your project directory 
+3.	To run test in Chrome Browser: Run mvn test -DbrowserName="chrome"
+4.	To run test in Firefox Browser: Run mvn test -DbrowserName="firefox"
 
-**Cucumber Reports: **
+**Cucumber Reports:**
 
 (folder - "target\cucumber-reports\advanced-reports\extentReports"), file - "extentReport.html"
 
