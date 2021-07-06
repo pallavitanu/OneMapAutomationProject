@@ -26,15 +26,16 @@ TestNg
 **The Project contains:**
 
 **1 feature (feature file)**
-Feature: Validate the OneMap site
+1.	Feature: Validate the OneMap site
 
 **6 Scenarios**
-Scenario: Validate Different options in Home Page
-Scenario: Validate Covid Test Providers Option
-Scenario: Validate Nearby Park Option
-Scenario: Validate Essential Amenities Option
-Scenario: Validate Different options in More Menu
-Scenario: Validate Happy Smiley Option
+1.	Scenario: Validate Different options in Home Page
+2.	Scenario: Validate Covid Test Providers Option
+3.	Scenario: Validate Nearby Park Option
+4.	Scenario: Validate Essential Amenities Option
+5.	Scenario: Validate Different options in More Menu
+6.	Scenario: Validate Happy Smiley Option
+
 
 
 **Directory structure:**
