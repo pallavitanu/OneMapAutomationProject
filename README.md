@@ -1,7 +1,6 @@
 # OneMapAutomationProject
 BDD Maven based framework for automation using Selenium Cucumber and TestNg
-Cucumber-BDD-Automation-Framework
-BDD Maven based framework for automation using Selenium Cucumber and TestNg
+
 Pre-requisites
 Java
 Maven
