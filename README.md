@@ -10,6 +10,7 @@ Eclipse Plugins
 Maven
 Cucumber
 TestNg
+
 This framework contains Automation Test Scenarios for OneMap Website, containing:
 The framework has following features
 1.	POM Approach to Project Structure
